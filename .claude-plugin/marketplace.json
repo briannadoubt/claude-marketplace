@@ -9,10 +9,7 @@
   "plugins": [
     {
       "name": "apple-docs",
-      "source": {
-        "type": "github",
-        "repo": "briannadoubt/AppleDocsTool"
-      },
+      "source": "github:briannadoubt/AppleDocsTool",
       "description": "Apple development tools - simulator UI automation, project analysis, build/test, and documentation lookup",
       "version": "1.0.0",
       "author": { "name": "briannadoubt" },
