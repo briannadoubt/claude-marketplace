@@ -26,7 +26,7 @@
         "url": "https://github.com/briannadoubt/trebuchet-plugin.git"
       },
       "description": "Expert assistance for Trebuchet distributed actor framework development",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "author": { "name": "briannadoubt" },
       "license": "MIT",
       "keywords": ["swift", "distributed-actors", "rpc", "cloud-deployment", "aws-lambda", "serverless", "swiftui", "fly-io"]
