@@ -18,6 +18,18 @@
       "author": { "name": "briannadoubt" },
       "license": "MIT",
       "keywords": ["apple", "ios", "swift", "xcode", "simulator", "macos"]
+    },
+    {
+      "name": "trebuchet",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/briannadoubt/trebuchet-plugin.git"
+      },
+      "description": "Expert assistance for Trebuchet distributed actor framework development",
+      "version": "1.0.0",
+      "author": { "name": "briannadoubt" },
+      "license": "MIT",
+      "keywords": ["swift", "distributed-actors", "rpc", "cloud-deployment", "aws-lambda", "serverless", "swiftui"]
     }
   ]
 }
