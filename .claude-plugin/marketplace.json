@@ -24,7 +24,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/briannadoubt/trebuchet-plugin.git",
-        "ref": "1.3.0"
+        "ref": "main"
       },
       "description": "Expert assistance for Trebuchet distributed actor framework development",
       "version": "1.3.0",
